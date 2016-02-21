@@ -7,9 +7,6 @@
 ## 3. Combine Date & Time columns into a single POSIXct column
 ## 4. Generate histogram of frequencies for Global Active Power and output it as png
 
-## remove this before upload
-setwd("C:/My Files/MyDocs/Courses/DataScience/Exploratory Data Analysis/Assignment1")
-
 ## 1. Download and unzip data
 
 ## Download zip file
